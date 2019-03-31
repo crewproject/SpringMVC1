@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	크루 프로젝트 시작  
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
